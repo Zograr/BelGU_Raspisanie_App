@@ -1,7 +1,0 @@
-ru.zograr.weblauncher.app-pngs-0 C:\WebLauncherAutoOpen\app\build\generated\res\pngs\debug
-ru.zograr.weblauncher.app-resValues-1 C:\WebLauncherAutoOpen\app\build\generated\res\resValues\debug
-ru.zograr.weblauncher.app-packageDebugResources-2 C:\WebLauncherAutoOpen\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-ru.zograr.weblauncher.app-packageDebugResources-3 C:\WebLauncherAutoOpen\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-ru.zograr.weblauncher.app-debug-4 C:\WebLauncherAutoOpen\app\build\intermediates\merged_res\debug\mergeDebugResources
-ru.zograr.weblauncher.app-debug-5 C:\WebLauncherAutoOpen\app\src\debug\res
-ru.zograr.weblauncher.app-main-6 C:\WebLauncherAutoOpen\app\src\main\res
