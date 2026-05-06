@@ -1,0 +1,4 @@
+ru.zograr.weblauncher.test.app-androidTest-0 C:\WebLauncherAutoOpen\app\build\generated\res\resValues\androidTest\debug
+ru.zograr.weblauncher.test.app-mergeDebugAndroidTestResources-1 C:\WebLauncherAutoOpen\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+ru.zograr.weblauncher.test.app-mergeDebugAndroidTestResources-2 C:\WebLauncherAutoOpen\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+ru.zograr.weblauncher.test.app-debugAndroidTest-3 C:\WebLauncherAutoOpen\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

@@ -1,0 +1,6 @@
+ru.zograr.weblauncher:string/site_url = 0x7f040001
+ru.zograr.weblauncher:string/app_name = 0x7f040000
+ru.zograr.weblauncher:style/AppTheme = 0x7f050000
+ru.zograr.weblauncher:mipmap/ic_launcher = 0x7f030000
+ru.zograr.weblauncher:drawable/ic_launcher_foreground = 0x7f020000
+ru.zograr.weblauncher:color/ic_launcher_background = 0x7f010000

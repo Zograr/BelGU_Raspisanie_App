@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мой сайт</string>
+    <!-- Сюда вставь свой сайт, например: https://zograr.ru -->
+    <string name="site_url">https://bsuedu.ru/bsu/education/schedule/groups/index.php?group=90002595</string>
+</resources>

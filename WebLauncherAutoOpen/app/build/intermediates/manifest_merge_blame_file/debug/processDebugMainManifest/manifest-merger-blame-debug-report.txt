@@ -1,0 +1,51 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ru.zograr.weblauncher"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\WebLauncherAutoOpen\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\WebLauncherAutoOpen\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\WebLauncherAutoOpen\app\src\main\AndroidManifest.xml:5:5-79
+12-->C:\WebLauncherAutoOpen\app\src\main\AndroidManifest.xml:5:22-76
+13
+14    <application
+14-->C:\WebLauncherAutoOpen\app\src\main\AndroidManifest.xml:7:5-23:19
+15        android:allowBackup="true"
+15-->C:\WebLauncherAutoOpen\app\src\main\AndroidManifest.xml:8:9-35
+16        android:debuggable="true"
+17        android:extractNativeLibs="false"
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\WebLauncherAutoOpen\app\src\main\AndroidManifest.xml:10:9-43
+19        android:label="@string/app_name"
+19-->C:\WebLauncherAutoOpen\app\src\main\AndroidManifest.xml:11:9-41
+20        android:theme="@style/AppTheme"
+20-->C:\WebLauncherAutoOpen\app\src\main\AndroidManifest.xml:12:9-40
+21        android:usesCleartextTraffic="true" >
+21-->C:\WebLauncherAutoOpen\app\src\main\AndroidManifest.xml:9:9-44
+22        <activity
+22-->C:\WebLauncherAutoOpen\app\src\main\AndroidManifest.xml:14:9-21:20
+23            android:name="ru.zograr.weblauncher.MainActivity"
+23-->C:\WebLauncherAutoOpen\app\src\main\AndroidManifest.xml:15:13-41
+24            android:exported="true" >
+24-->C:\WebLauncherAutoOpen\app\src\main\AndroidManifest.xml:16:13-36
+25            <intent-filter>
+25-->C:\WebLauncherAutoOpen\app\src\main\AndroidManifest.xml:17:13-20:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\WebLauncherAutoOpen\app\src\main\AndroidManifest.xml:18:17-69
+26-->C:\WebLauncherAutoOpen\app\src\main\AndroidManifest.xml:18:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->C:\WebLauncherAutoOpen\app\src\main\AndroidManifest.xml:19:17-77
+28-->C:\WebLauncherAutoOpen\app\src\main\AndroidManifest.xml:19:27-74
+29            </intent-filter>
+30        </activity>
+31    </application>
+32
+33</manifest>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Расписание БелГУ</string>
+    <string name="schedule_url">https://bsuedu.ru/bsu/education/schedule/groups/index.php?group=90002595</string>
+</resources>
