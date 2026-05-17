@@ -1,0 +1,7 @@
+<resources>
+    <color name="green_dark">#0B4F13</color>
+    <color name="green">#166A23</color>
+    <color name="background">#F5F7F5</color>
+    <color name="card">#FFFFFF</color>
+    <color name="launcher_bg">#0F1F18</color>
+</resources>
